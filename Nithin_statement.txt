@@ -1,0 +1,7 @@
+==== Transaction Statement ====
+Account Holder: Nithin
+Current Balance: ₹4579
+===============================
+
+2025-08-22 18:57:47 - Deposited ₹33
+2025-08-22 18:57:53 - Withdrew ₹454

@@ -1,0 +1,6 @@
+==== Transaction Statement ====
+Account Holder: Sai
+Current Balance: ₹26000
+===============================
+
+2025-08-22 19:04:58 - Withdrew ₹4000

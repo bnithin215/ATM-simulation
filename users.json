@@ -1,0 +1,20 @@
+{
+    "1234": {
+        "name": "Nithin",
+        "balance": 4579,
+        "history": [
+        ]
+    },
+    "5678": {
+        "name": "Alex",
+        "balance": 3000,
+        "history": []
+    },
+    "8569": {
+        "name": "Sai",
+        "balance": 30000,
+        "history": []
+    }
+
+}
+
